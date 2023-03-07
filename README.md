@@ -9,7 +9,7 @@ a good project to start out with. I learned about loops, when statements, and re
 programming languages I was already familiar with.
 
 ### See It in Action
-I made a quick [demo video]() that walks through the code and my approach to solve the problem. 
+I made a quick [demo video](https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1157612/uiconf_id/42438192/entry_id/1_mdimiiga/embed/dynamic) that walks through the code and my approach to solve the problem. 
 
 # Development Environment
 ### IntelliJ by JetBrains
